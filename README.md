@@ -24,4 +24,8 @@ The objective of this project are two-fold:
       
 2. (ContextualBandit.py) To build a recommender system using a contextual Bandit algorithm using a library called VowpalWabbit https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/python_Contextual_bandits_and_Vowpal_Wabbit.html
 
+Instructions to run the code:
+1. Clone the repo
+1. Download the data from the above links and save it in a folder named 'Data' in the repo folder
+2. Run CBWrapper.ipynb ( A jupyter notebook)
 
