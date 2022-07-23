@@ -11,12 +11,14 @@ The objective of this project are two-fold:
     5. Country
     6. State 
     7. Languages
+    * The above static features are just an example, the spotify playlist dataset, we are using doesn't have such static features 
 
     Dynamic Features
     1. Affinity towards a Genre
     2. Dynamic playlists
-    3. Features of last $n$ played songs
-    4. Time_of_the_day
+    3. Features of last $n$ played songs 
+    4. Time_of_the_day 
+    * We only have (3) available as the dynamic feature from the song features dataset. The other can be implemented in a similar fashion.
 2. (ContextualBandit.py) To build a recommender system using a contextual Bandit algorithm using a library called VowpalWabbit https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/python_Contextual_bandits_and_Vowpal_Wabbit.html
 
 
